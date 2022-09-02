@@ -1,4 +1,4 @@
-let fs = require('fs')
+let tr = require('tr')
 let handler = m => m
 
 handler.all = async function (m, { isBlocked }) {
