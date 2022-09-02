@@ -184,8 +184,8 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
                             hydratedFooterText:'Ⓟ premium | Ⓛ limit',
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: '【𝙔𝙤𝙪𝙩𝙪𝙗𝙚⛽】',
-                                    url: 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
+                                    displayText: '【𝙂𝙄𝙏𝙃𝙐𝘽 ⛽】',
+                                    url: 'https://github.com/Arrafi231'
                                 }
                             }, {
                                 quickReplyButton: {
