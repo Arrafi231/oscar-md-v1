@@ -10,7 +10,7 @@ let jarot = `
     const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fromObject({
         templateMessage: {
             hydratedTemplate: {
-                hydratedContentText: rafii,
+                hydratedContentText: jarot,
                 imageMessage: message.imageMessage, 
            hydratedFooterText: '📮Note : HALO KAK SAYA RAFIBOTTZZ, JIKA KAMU MENGGUNAKAN WA LAMA ATAU WA MOD, DAN BUTTON TIDAK KELIATAN, LANGSUNG AJA KETIK .allmenu',
            hydratedButtons: [{
